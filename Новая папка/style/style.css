@@ -1,0 +1,240 @@
+* {box-sizing: border-box;
+    margin: 0;
+padding: 0;
+}
+/* section 1 */
+.pages{
+    display: flex;
+
+    justify-content: space-between;
+}
+.logo {
+    display: flex;
+}
+.navigation {
+    display: flex;
+    /* justify-content: space-between; */
+    align-items: center;
+
+
+}
+.navigation li{
+    margin-left: 35px;
+    list-style: none;
+}
+.SignIn{
+    border: none;
+    background-color: white; 
+
+}
+.SignUp{
+  background-color:#4D77FF ;  
+  color: white;
+  border: none;
+  border-radius: 15px;
+  padding: 10px 30px ;
+
+}
+.bbs{
+    display: flex;
+}
+
+/* .pages2{
+    width: 500px;
+    display: flex;
+    justify-content: space-between;
+} */
+
+.section1{
+    display: flex;
+    flex-direction: column;
+}
+.text{
+    text-align: center;
+}
+/*  */
+
+.contayner{
+    width: 1200px;
+    margin:0 auto;
+    margin-top: 400;
+}
+.felix{
+    display: flex;
+    align-items: start;
+    margin-top: 100;
+}
+.find{
+    color: cornflowerblue;
+    margin-top: 100;
+}
+.nurr{
+    font-size: 14px;
+    font-weight: 400px;
+    color: darkgray;
+margin-top: 200;
+}
+.medi{
+    font-size: 32px;
+    font-weight: 500px;
+    margin-top: 200;
+}
+.felix-text{
+    width: 800px;
+}
+.flex{
+    display: flex;
+align-items: center;
+}
+.btn{
+    padding: 16px 36px;
+    border-radius: 10px;
+    color: #4D77FF;
+    margin-top: 100px
+    ;
+}
+.felix-img{
+
+    border-radius: 30px;
+    margin-top: 50px;
+}
+.border {
+    border-radius: 2px;
+}
+
+.contayner{
+ width: 1340px;
+}
+.fail{
+    display: flex;
+    align-items: center; 
+}  
+
+
+/* section 2 */
+.contayner { 
+    width: 1200px;
+    margin: 0 auto;
+}
+
+
+.block3{
+    display: flex;
+    align-items: start;
+    position: relative;
+}
+.find{
+    color:#4D77FF;
+    font-size: 14px;
+    font-weight: 700;
+}
+.block3-text{
+    width: 500px;
+}
+.block3-text h2{
+    font-size: 32px;
+    font-weight: 700;
+    color: black;
+}
+.medi{
+    font-size: 14px;
+    font-weight: 400;
+    color:#696969
+}
+.btn{
+    padding: 16px 36px;
+    border-radius: 10px;
+    background-color: #4D77FF;
+    border: none;
+    background-color: #4D77FF;
+    ;
+}
+.flex{
+    display: flex;
+    align-items: center;
+}
+.block3-position{
+    position: absolute;
+    width: 203;
+    padding: 16 30px;
+    background-color: red;
+    border-radius: 10px;left: 100px;
+}
+
+/* section 3 */
+
+.contayner{
+    width: 1000px;
+    /* height: 500px; */
+    /* text-align: center;
+    font-size: 20px; */
+    margin: 0 auto;
+    margin-top: 40px;
+}
+.blocks{
+    display: flex;
+justify-content: space-evenly;
+}
+.block{
+    margin-top: 60px;
+    width: 200px;
+    height: 150px;
+    border-top: 1px solid blue;
+    padding: 30px 10px;
+}
+
+.medina {
+    display: flex;
+} 
+
+.modal{
+    padding: 15px 10px;
+    Width: 202px;
+    height: 256px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    position: absolute;
+    
+}
+.card{
+    display: flex;
+}
+.find-btns {
+    width: 142px;
+    height: 32px;
+    background-color: rgb(176, 176, 245);
+    border-radius: 8px;
+}
+.classs{
+    display: flex;
+    margin-top: 50px;
+    gap: 50px;
+    flex: content;
+}
+.tt{
+    width: 500px;
+}
+.doctorImg{
+    width:535px;
+    height: 609px;
+}
+.section2{
+    display: flex;
+    align-items: center;
+}
+.section2 img{
+    width: 24px;
+    height: 24px; 
+    
+    
+}
+.about1{
+    display: flex;
+    gap: 15px;
+    align-items: center;
+}
+.description{
+    color: #696969;
+}

@@ -1,0 +1,52 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.contayner{
+    width: 1200px;
+    margin:0 auto;
+    margin-top: 400;
+}
+.felix{
+    display: flex;
+    align-items: start;
+    margin-top: 100;
+}
+.find{
+    color: cornflowerblue;
+    margin-top: 100;
+}
+.nurr{
+    font-size: 14px;
+    font-weight: 400px;
+    color: darkgray;
+margin-top: 200;
+}
+.medi{
+    font-size: 32px;
+    font-weight: 500px;
+    margin-top: 200;
+}
+.felix-text{
+    width: 800px;
+}
+.flex{
+    display: flex;
+align-items: center;
+}
+.btn{
+    padding: 16px 36px;
+    border-radius: 10px;
+    color: #4D77FF;
+    margin-top: 100px
+    ;
+}
+.felix-img{
+
+    border-radius: 30px;
+    margin-top: 50px;
+}
+.border {
+    border-radius: ;
+}
